@@ -1,4 +1,10 @@
 /*
+    Component Navbar
+*/
+#navbarSupportedContent ul{
+    width: 70vw;
+}
+/*
     Component Banner
 */
 #myCarousel{
@@ -10,7 +16,10 @@
 .fill {
     object-fit: fill;
 }
-
+.carousel-button{
+    margin-right: 20px;
+    width: 200px;
+}
 /*
     Component Footer
 */
@@ -27,7 +36,7 @@ footer .footer-widget h3 {
 footer .contact-link {
     display: inline-block;
     width: 100%;
-    color: #333;
+    color: rgb(231, 226, 226);
 }
 footer .footer-social ul {
     padding-left: 0;

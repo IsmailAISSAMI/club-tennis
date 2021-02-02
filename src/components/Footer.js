@@ -2,7 +2,7 @@ import React from 'react'
 
 function Footer() {
     return (
-        <footer class="footer">
+        <footer class="footer text-white bg-dark">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-4">
@@ -13,9 +13,9 @@ function Footer() {
                                 <div class="contact-link">(+33)1 22 33 44 55</div>
                                 <div class="footer-social">
                                     <ul>
-                                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-youtube"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-facebook text-white"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-twitter text-white"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-youtube text-white"></i></a></li>
                                     </ul>
                                 </div>
                             </div>
